@@ -1,6 +1,6 @@
 # Technologie
 
-### Przykład wykorzystania markdown przy zapisie
+#### Przykład wykorzystania markdown przy zapisie
 
  **wytłuszczanie** - dwie gwiazdki
  *pochylanie* - jedna gwiazdka
