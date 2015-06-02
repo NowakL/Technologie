@@ -17,9 +17,9 @@ Lista numerowana:
 
 
 Wpisywanie kodu odbywa sią na 2 sposoby. 
-Pierwszy to zapis wraz z tekstem: `załączenie kodu` oraz drugi to zapis poprzez ``` lub 4 spacje:
+Pierwszy to zapis wraz z tekstem: `załączenie kodu` oraz drugi to zapis poprzez tabulator lub 4 spacje:
     
-```Blok pierwszy kodu
+	Blok pierwszy kodu
     
     Blok drugi kodu
 
