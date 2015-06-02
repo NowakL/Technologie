@@ -2,8 +2,8 @@
 
 ### Przykład wykorzystania markdown przy zapisie
 
-**wytłuszczanie** - dwie gwiazdki
-*pochylanie* - jedna gwiazdka
+ **wytłuszczanie** - dwie gwiazdki
+ *pochylanie* - jedna gwiazdka
 
 Lista nienumerowana:
  + pozycja pierwsza
@@ -16,14 +16,16 @@ Lista numerowana:
  3. pozycja trzecia
 
 
-Wpisywanie kodu odbywa sią na 2 sposoby. Pierwszy to zapis wraz z tekstem: 'załączenie kodu' oraz drugi to zapis poprzez 1 tabulator lub 4 spacje:
-	Blok pierwszy kodu
-	Blok drugi kodu
+Wpisywanie kodu odbywa sią na 2 sposoby. 
+Pierwszy to zapis wraz z tekstem: `załączenie kodu` oraz drugi to zapis poprzez 1 tabulator lub 4 spacje:
+    Blok pierwszy kodu
+    Blok drugi kodu
 
 Cytaty poprzez >
 
-> Cytat pierwszy
-> Cytat drugi
+ > Cytat pierwszy
+
+ > Cytat drugi
 
 Linki podajemy w kwadratowych nawiasach: [link][1]
 
