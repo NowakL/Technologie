@@ -1,4 +1,4 @@
-# Moje otatki z pracy na githabie przez Ubuntu
+# Moje notatki z pracy na githabie przez Ubuntu
 
 ### Podczas pracy wykorzystuję wiersz poleceń i zwracam uwagę na składnię, która musi być super dokładna.
 
@@ -12,26 +12,21 @@
 
  + mkdir gittest - *tworzę folder (repozytorium), które będzie tożsame z repozytorium na githubie*
  + cd gittest - *wchodzę w ten folder (repozytorium)*
- + 
+ + echo "# gittest" >> README.md - *tworzę plik*
+ + git init - *startuję gita w tym folderze*
+ + git add README.md - *dodaję plik do śledzenia*
+ + git commit -m "first commit" - *wprowadzam zmiany*
+ + git remote add origin https://github.com/lsnarski/gittest.git - *łączę z repozytorium na githubie*
+ + git push -u origin master - *przesyłam zmiany na github*
 
-echo "# gittest" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/lsnarski/gittest.git
-git push -u origin master
+3. **Ważne komendy**
 
-git clone https://github.com/lsnarski/lsnarski.github.io.git
+ + git clone https://github.com/lsnarski/lsnarski.github.io.git - *klonujesz całe reozytorium do siebie do folderu na dysku*
+ + git status - *sprawdzasz, które repozytorium jest śledzone, zmienione itp*
+ + git add - *dodajesz plik do śledzenia*
+ + git rm - *usuwasz plik ze śledzenia*
+ + git commit -m -a - *wprowadzasz zmiany w plikach*
 
 
-sudo apt-get install npm
+## Pamiętaj, to są tylko podstawowe polecenia, których jest znacznie więcej
 
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-
-git status
-git add
-git rm
-
-git commit -m -a
