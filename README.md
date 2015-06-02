@@ -16,7 +16,7 @@ Lista numerowana:
  3. pozycja trzecia
 
 
-Wpisywanie kodu odbywa sią na 2 sposoby. 
+Wpisywanie kodu odbywa się na 2 sposoby. 
 Pierwszy to zapis wraz z tekstem: `załączenie kodu` oraz drugi to zapis poprzez tabulator lub 4 spacje:
     
 	Blok pierwszy kodu
